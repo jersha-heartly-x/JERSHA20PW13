@@ -27,5 +27,12 @@
 
 #### Github Stats
 
-![JERSHA20PW13's github stats](https://github-readme-stats.vercel.app/api?username=JERSHA20PW13&count_private=true&theme=tokyonight&hide=contribs,prs)
+<img align="center" width=380 src="https://github-readme-stats.vercel.app/api?username=JERSHA20PW13&hide_border=true&show_icons=true&theme=algolia" />
 
+#### Languages Used
+
+<img align="center" width=380 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JERSHA20PW13&hide_border=true&layout=compact&theme=algolia" />
+
+#### Activity
+
+<img align="center" width=380 src="https://github-readme-stats.vercel.app/api?username=JERSHA20PW13&hide_border=true&show_icons=true&theme=algolia" />
