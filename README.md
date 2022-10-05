@@ -22,11 +22,6 @@
 - :email: jershaxavier@gmail.com
 
 
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=JERSHA20PW13.JERSHA20PW13)
-
-
 #### Github Stats
 
 <img align="center" width=380 src="https://github-readme-stats.vercel.app/api?username=JERSHA20PW13&hide_border=true&show_icons=true&theme=algolia" />
