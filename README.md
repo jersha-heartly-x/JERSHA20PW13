@@ -21,11 +21,3 @@
 - :paperclip: [resume](https://docs.google.com/document/d/1YU9s1GwHPCwqWIdoWpT2Nxgr6WJo7fsDvyffMZmoLZ4/edit?usp=sharing)
 - :email: jershaxavier@gmail.com
 
-
-#### Github Stats
-
-<img align="center" width=380 src="https://github-readme-stats.vercel.app/api?username=JERSHA20PW13&hide_border=true&show_icons=true&theme=algolia" />
-
-#### Languages Used
-
-<img align="center" width=380 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JERSHA20PW13&hide_border=true&layout=compact&theme=algolia" />
